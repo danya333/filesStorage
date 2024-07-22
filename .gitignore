@@ -32,6 +32,6 @@ build/
 ### VS Code ###
 .vscode/
 
-src/main/resources/covers
-src/main/resources/files
-src/main/resources/logos
+src/main/resources/covers/**
+src/main/resources/files/**
+src/main/resources/logos/**
